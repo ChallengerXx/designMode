@@ -1,6 +1,6 @@
 package com.factory.factory;
 
-import com.factory.interfaces.Shape;
+import com.factory.modelInterfaces.Shape;
 
 /**
  * 使用反射机制改良简单工厂

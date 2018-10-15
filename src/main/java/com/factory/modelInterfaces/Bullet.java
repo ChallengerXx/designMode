@@ -1,4 +1,4 @@
-package com.factory.interfaces;
+package com.factory.modelInterfaces;
 
 /**
  * 子弹接口

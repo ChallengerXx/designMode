@@ -1,11 +1,11 @@
 package com.test;
 
-import com.factory.interfaces.Shape;
+import com.factory.modelInterfaces.Shape;
 import com.factory.factory.ShapeFactory;
 import com.factory.factory.ShapeFactory2;
-import com.factory.interfaces.impl.Circle;
-import com.factory.interfaces.impl.Rectangle;
-import com.factory.interfaces.impl.Square;
+import com.factory.modelInterfaces.impl.Circle;
+import com.factory.modelInterfaces.impl.Rectangle;
+import com.factory.modelInterfaces.impl.Square;
 
 public class ShapeFactoryTest {
 

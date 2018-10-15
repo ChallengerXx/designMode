@@ -1,6 +1,6 @@
-package com.factory.interfaces.impl;
+package com.factory.modelInterfaces.impl;
 
-import com.factory.interfaces.Bullet;
+import com.factory.modelInterfaces.Bullet;
 
 public class MA41_Bullet implements Bullet {
     public void loud() {

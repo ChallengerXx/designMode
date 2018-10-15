@@ -1,10 +1,10 @@
 package com.test;
 
-import com.factory.interfaces.Bullet;
-import com.factory.interfaces.Gun;
-import com.factory.interfaces.GunBulletFactory;
-import com.factory.interfaces.impl.AKFactory;
-import com.factory.interfaces.impl.MA41Factory;
+import com.factory.modelInterfaces.Bullet;
+import com.factory.modelInterfaces.Gun;
+import com.factory.factory.factoryInterfaces.GunBulletFactory;
+import com.factory.factory.factoryInterfaces.impl.AKFactory;
+import com.factory.factory.factoryInterfaces.impl.MA41Factory;
 
 public class GunBulletFactoryTest {
 

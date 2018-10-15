@@ -1,6 +1,6 @@
-package com.factory.interfaces.impl;
+package com.factory.modelInterfaces.impl;
 
-import com.factory.interfaces.Shape;
+import com.factory.modelInterfaces.Shape;
 
 public class Square implements Shape {
     public Square() {

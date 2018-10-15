@@ -1,6 +1,6 @@
-package com.factory.interfaces.impl;
+package com.factory.modelInterfaces.impl;
 
-import com.factory.interfaces.Gun;
+import com.factory.modelInterfaces.Gun;
 
 public class MA41 implements Gun {
     public void shooting() {
